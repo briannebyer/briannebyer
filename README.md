@@ -4,6 +4,7 @@ Hey there! My name is Brianne, I am a passionate Graduate Software Developer bas
 
 ## 🌐 Socials:
 I love connecting with others in the tech space, don't hesitate to reach out if you are part of coding clubs in Brisbane or a fellow women in STEM ❤️
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/briannebyer) 
 
 # 💻 Tech Stack:
